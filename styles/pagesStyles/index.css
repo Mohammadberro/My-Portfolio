@@ -33,5 +33,13 @@
 }
 .dotted {
   border: 1px dotted;
-  background-color: black";
+  background-color: black"
+}
+.float-container {
+  padding: 20px;
+}
+
+.float-child {
+  width: 50%;
+  float: left;
 }
