@@ -1,0 +1,36 @@
+/* CSS Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  background-color: rgb(202, 236, 255);
+  height: 70px;
+  padding-top: 25px;  
+  text-align: center;
+}
+
+.sub-section {
+  height: 300px;
+  width: 50%;
+  display: inline-block;
+}
+
+.second-section {
+  height: 300px;
+  background-color: red;
+}
+
+.another {
+  height: 100px;
+}
+
+.separate {
+  height: 80px;
+}
+/* .dotted {
+  border: 1px dotted;
+  background-color: black";
+} */
